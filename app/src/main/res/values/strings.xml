@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">SubKiller</string>
+    <string name="app_tagline">Stop wasting money on forgotten subscriptions.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="total_monthly_cost">Total Monthly Cost</string>
+    <string name="total_yearly_cost">Total Yearly Cost</string>
+    <string name="toggle_monthly">Monthly</string>
+    <string name="toggle_yearly">Yearly</string>
+    <string name="your_subscriptions">Your Subscriptions</string>
+    <string name="no_subscriptions">No subscriptions yet. Tap + to add one!</string>
+    <string name="status_paused">PAUSED</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_delete">Delete</string>
+    <string name="add_subscription">Add Subscription</string>
+
+    <!-- Dialog Add Subscription -->
+    <string name="dialog_title_add">Add Subscription</string>
+    <string name="hint_name">Subscription Name (e.g. Netflix)</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_category">Category (e.g. Entertainment)</string>
+    <string name="hint_next_payment">Next Payment Date</string>
+    <string name="checkbox_free_trial">This is a Free Trial</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="error_fill_all_fields">Please enter valid name, price, and date</string>
+
+    <!-- Reminders Screen -->
+    <string name="upcoming_payments_title">Upcoming Payments</string>
+    <string name="upcoming_payments_subtitle">Due in the next 7 days</string>
+    <string name="free_trials_title">Free Trials Ending Soon</string>
+    <string name="all_caught_up_msg">You\'re all caught up! No payments due this week.</string>
+    <string name="due_today">Due Today!</string>
+    <string name="due_in_days">Due in %1$d days</string>
+    <string name="trial_ending_tomorrow">Ends tomorrow!</string>
+    <string name="trial_ends_in_days">Trial ends in %1$d days</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="pref_enable_reminders">Enable Payment Reminders</string>
+    <string name="pref_enable_reminders_desc">Get notified 2 days before charge or 1 day before trial ends (daily at 9:00 AM)</string>
+    <string name="btn_rate_us">Rate Us on Google Play</string>
+    <string name="btn_privacy_policy">Privacy Policy</string>
+    <string name="app_version_label">Version 1.0.0 (Offline-First)</string>
+
+    <!-- Privacy Policy Dialog -->
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_text">Last Updated: October 2026
+
+SubKiller (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This policy explains how your information is handled when you use our app.
+
+1. INFORMATION WE COLLECT
+We do NOT collect, store, or share any personal information on our servers. All subscriptions you add (names, prices, dates, categories) are stored ONLY on your local device using Android\'s secure Room database.
+
+2. NO ACCOUNT REQUIRED
+SubKiller does not require you to create an account, sign in, or provide any personal details. You can use the app fully offline.
+
+3. NO BANK ACCESS
+We do not connect to your bank, credit card, or payment services. All subscription data is manually entered by you.
+
+4. THIRD-PARTY ADVERTISING
+This app uses Google AdMob to display advertisements. AdMob may collect and use certain data (such as your device\'s advertising ID) to provide personalized ads. You can learn more about how Google uses data at: https://policies.google.com/technologies/partner-sites
+
+5. LOCAL NOTIFICATIONS
+SubKiller sends local notifications to remind you about upcoming payments. These are generated on your device and do not require internet access. You can disable them anytime in the app Settings.
+
+6. DATA SECURITY
+All your data stays on your device. If you uninstall the app, all your subscription data will be permanently deleted. We recommend exporting important records manually.
+
+7. CHILDREN\'S PRIVACY
+Our app does not knowingly collect personal information from children under 13.
+
+8. CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time. Changes are effective immediately upon posting.
+
+9. CONTACT US
+If you have any questions about this Privacy Policy, contact us at: cartoniq.business@gmail.com
+
+By using SubKiller, you agree to this Privacy Policy.</string>
+    <string name="btn_close">Close</string>
+</resources>

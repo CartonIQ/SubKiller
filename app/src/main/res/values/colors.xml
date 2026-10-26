@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Dark Mode Theme Colors -->
+    <color name="bg_dark">#121212</color>
+    <color name="card_dark">#1E1E1E</color>
+    <color name="card_dark_elevated">#292929</color>
+    
+    <!-- Neon Green Primary Accents -->
+    <color name="primary_neon_green">#00E676</color>
+    <color name="primary_neon_green_dim">#00B050</color>
+    <color name="neon_green_glow">#3300E676</color>
+
+    <!-- Danger Red Warnings -->
+    <color name="danger_red">#FF5252</color>
+    <color name="danger_red_glow">#33FF5252</color>
+
+    <!-- Neutrals & Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_muted">#666666</color>
+    <color name="divider_color">#2C2C2C</color>
+    <color name="paused_card_bg">#181818</color>
+</resources>
